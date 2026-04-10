@@ -14,12 +14,12 @@ A solução integra modelos neurais avançados, dados experimentais e visualiza�
 
 🧠 Versão da Plataforma
 
-OptiGen Platform v0.1.0
+OptiGen Platform v0.1.1
 
 🔹 Componentes
 
 - Backend: v0.1.1
-- Frontend: v0.1.0
+- Frontend: v0.1.2
 
 ---
 
