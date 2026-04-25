@@ -104,3 +104,27 @@ Incubada na UNICAMP (INCAMP)
 Transformar dados experimentais complexos em inteligência prática para engenharia de fluidos, reduzindo incertezas operacionais e aumentando eficiência em processos industriais.
 
 ---
+
+RESUMO:
+## 🧠 Arquitetura
+
+- Backend (FastAPI + ML): optigen-backend
+- Frontend (Streamlit): optigen-frontend
+- Motor físico-data-driven (V3)
+
+---
+
+## 🌐 Deploy
+
+- API: https://optigen.onrender.com
+- App: https://share.streamlit.io/...
+
+---
+
+## 🎯 Diferenciais
+
+- Modelo híbrido físico + IA
+- Simulação espaço-temporal
+- Interface física (dist_interface)
+- Explicabilidade integrada
+- Geração automática de relatórios
